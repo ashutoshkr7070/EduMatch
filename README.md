@@ -4,7 +4,7 @@ A **Full Stack Web Application** that combines the best of **Tinder** and **Link
 
 ## 🌐 Live Demo
 
-Check out the live version of the app: [EduMatch Live]([https://your-render-deployed-url.onrender.com](https://edumatch-u85g.onrender.com/))
+[Check out the live website here](https://edumatch-u85g.onrender.com/)
 
 ## 🌟 Features
 
