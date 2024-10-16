@@ -2,6 +2,10 @@
 
 A **Full Stack Web Application** that combines the best of **Tinder** and **LinkedIn** to create a unique platform for connecting students with similar interests for study purposes. This app is designed to foster meaningful connections among students, enabling them to find study partners based on shared interests, and facilitate real-time communication.
 
+## 🌐 Live Demo
+
+Check out the live version of the app: [EduMatch Live]([https://your-render-deployed-url.onrender.com](https://edumatch-u85g.onrender.com/))
+
 ## 🌟 Features
 
 - **🔐 Authentication System with JWT**: Secure user authentication using **JWT** (JSON Web Tokens) to ensure data privacy and user security.
